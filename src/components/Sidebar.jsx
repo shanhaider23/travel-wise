@@ -13,8 +13,7 @@ function Sidebar() {
 
 			<footer className={styles.footer}>
 				<p className={styles.copyright}>
-					&copy; Developed by {new Date().getFullYear()} by Shan-e-Haider
-					Bukhari.
+					&copy; Developed by Shan-e-Haider Bukhari.
 				</p>
 			</footer>
 		</div>
